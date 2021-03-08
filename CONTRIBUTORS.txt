@@ -9,5 +9,6 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
-- Eugenio Vicente V�zquez (eugvicvaz@alum.us.es)
+- Eugenio Vicente Vázquez (eugvicvaz@alum.us.es)
 - Francisco José Anillo Carrasco (fraanicar@alum.us.es)
+- Daniel Dorante S�nchez (dandorsan@alum.us.es)
